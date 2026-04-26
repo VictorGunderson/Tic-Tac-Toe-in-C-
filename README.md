@@ -28,5 +28,5 @@ This program is an implementation of the Tic Tac Toes game you can play in the t
 (VIDEO)
 
 ## Contact
-Here is how you can reach me: LINKEDIN
+Here is how you can reach me: [LinkedIn](https://www.linkedin.com/in/victor-gunderson-1a47aa3aa/)
 
