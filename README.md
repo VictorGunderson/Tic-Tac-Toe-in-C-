@@ -25,7 +25,7 @@ This program is an implementation of the Tic Tac Toe game you can play in the te
 
 ## DEMO VIDEO
 
-(VIDEO)
+[CLICK HERE](https://youtu.be/gTKjkqucMMM?si=xjqetgVdskKUB8WX)
 
 ## Contact
 Here is how you can reach me: [LinkedIn](https://www.linkedin.com/in/victor-gunderson-1a47aa3aa/)
