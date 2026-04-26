@@ -2,7 +2,7 @@
 
 ![](https://github.com/VictorGunderson/Tic-Tac-Toe/blob/main/tictactoegameplay.png)
 
-This program is an implementation of the Tic Tac Toes game you can play in the terminal. I developed this game using C++ in VS Code as a beginner project to introduce me to C++. It allows two players to make their moves until someone wins, ties, or loses. The program also provides a very simple interface with characters and provides inputs the user can enter to play. My goal in making this project was to help me practice validating inputs, how to work with data structures, and how to make basic games.
+This program is an implementation of the Tic Tac Toe game you can play in the terminal. I developed this game using C++ in VS Code as a beginner project to introduce me to C++. It allows two players to make their moves until someone wins, ties, or loses. The program also provides a very simple interface with characters and provides inputs the user can enter to play. My goal in making this project was to help me practice validating inputs, how to work with data structures, and how to make basic games.
 
 ## Features of the game
 - Co-op gameplay
